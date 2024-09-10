@@ -60,7 +60,7 @@ app_license = "mit"
 
 # add methods and filters to jinja environment
 jinja = {
-	"methods": "romapuf.romapuf.utils.get_qr_code"
+	"methods": "qr_code.qr_code.utils.get_qr_code"
 }
 
 # Installation
